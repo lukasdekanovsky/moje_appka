@@ -1,2 +1,8 @@
-# moje_appka
-XX
+# My App
+
+> App description 
+
+## Authors: 
+* x
+* x
+* x
